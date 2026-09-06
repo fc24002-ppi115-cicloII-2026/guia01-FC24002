@@ -30,3 +30,28 @@
 #FC24002 strong {
     color: #ff4d4d;
 }
+#NM24005 {
+    width: 340px;
+    padding: 25px;
+    margin: 25px;
+    border: 2px solid #ff4fd8;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #28104e, #47126b, #1b3a57);
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    box-shadow:
+        0 0 10px #ff4fd8,
+        0 0 20px rgba(0, 255, 255, 0.4);
+}
+
+#NM24005 h2 {
+    color: #ff7bd5;
+    text-shadow: 0 0 8px #ff4fd8;
+    margin-bottom: 8px;
+}
+
+#NM24005 p {
+    color: #d9faff;
+    line-height: 1.5;
+}
