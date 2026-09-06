@@ -55,3 +55,36 @@
     color: #d9faff;
     line-height: 1.5;
 }
+
+#RZ23010 {
+    width: 340px;
+    padding: 25px;
+    margin: 25px;
+    border: 2px solid #39ff14;
+    border-radius: 18px;
+    background: linear-gradient(135deg, #000000, #0a1f0a, #000000);
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+    box-shadow:
+        0 0 10px #39ff14,
+        0 0 25px rgba(57, 255, 20, 0.5),
+        0 0 45px rgba(255, 255, 255, 0.12);
+}
+
+#RZ23010 h2 {
+    color: #ffffff;
+    text-shadow: 0 0 8px #39ff14, 0 0 18px rgba(57, 255, 20, 0.8);
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+#RZ23010 p {
+    color: #e6ffe6;
+    line-height: 1.5;
+}
+
+#RZ23010 strong {
+    color: #6dff6d;
+}
